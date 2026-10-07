@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://easy-peasy-painting-sa.github.io/sitemap.xml
